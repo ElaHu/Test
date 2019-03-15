@@ -1,0 +1,22 @@
+{
+  "name": "Test",
+  "version": "0.0.1",
+  "summary": "A short description of Test.",
+  "description": "组件化",
+  "homepage": "http://aaa/Test",
+  "license": "MIT",
+  "authors": {
+    "huweihong": "huweihong@miao.cn"
+  },
+  "source": {
+    "git": "https://github.com/ElaHu/Test.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Test/Classes/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
