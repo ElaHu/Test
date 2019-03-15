@@ -69,7 +69,6 @@
 				C3C1FF314FE9310BE71FC269 /* Pods-Test.debug.xcconfig */,
 				4B5069A68E9CDFB3EBB780A2 /* Pods-Test.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
